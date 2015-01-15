@@ -35,7 +35,7 @@
     "grunt-mocha-test": "^0.11.0"
   },
   "dependencies": {
-    "connect-prism": "^0.7.5",
+    "connect-prism": "git+https://github.com/ziprandom/connect-prism.git#master",
     "lodash": "^2.4.1"
   },
   "peerDependencies": {
